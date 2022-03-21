@@ -1,0 +1,149 @@
+body{
+    color: #7D7987;;
+}
+h2{
+    color: black;}
+    h3{
+        color: black;
+    }
+h3{color: black;
+    }    
+h4{
+    color: black;
+}   
+    a{
+        text-decoration: none;
+    }
+    li{
+        list-style-type: none;
+    }
+
+.nav1{
+color: grey;
+list-style: none;
+
+}
+.nav{
+color: black;
+ list-style: none;
+} 
+ .nav1{
+     text-decoration: none;
+     list-style: none;
+ } 
+ .item1{
+     text-decoration: none;
+     color: black;
+ } 
+ .item{
+     text-decoration: none;
+     color: grey;
+ }
+ .head{
+    
+    color: black;
+ }
+ .consult{
+     padding: 10px;
+     border-radius: 25px;
+     background-color: blue;
+     color: white;
+ }
+ .word1{
+     width: 445px;
+     font-weight: 300;
+font-size: 21px;
+line-height: 32px;
+ }
+ .servis{
+     text-align: center;
+ }
+ hr{
+     text-align: center;
+     width: 56px;
+     height: 2px;
+     color: blue;
+ }
+ .word3{
+     width: 263px;
+     height: 86px;
+ }
+ .word4{
+     width: 262px;
+     height: 249px;
+ }
+ .word5{
+     width: 262px;
+     height: 249px;
+ }
+ .word6{
+     width: 261px;
+     height: 261px;
+ }
+ .word7{
+     width: 262px;
+ }
+ .ab{
+    text-align: center;
+     color: blue;
+     padding: 15px;
+     border-radius: 25px;
+     background-color: grey;
+     width: 88px;
+    } 
+    .word8{
+        width: 486px;
+    }
+    .line{
+        width: 56px;
+        height: 2px;
+        background-color: #67C3F3;
+        border: 1px solid #67C3F3;
+    }
+    .lead{
+        text-align: center;
+    }
+    .word9{
+        width: 486px;
+    }
+    .line1{ 
+        width: 56px;
+        height: 2px;
+        background-color: #67C3F3;
+        border: 1px solid #67C3F3;
+    }
+    .div1{
+        background-color:#67C3F3;
+        border-radius: 25px;
+        height: 1219px;
+        height: 502px; 
+}
+    .p{
+        width: 420px;
+        height: 120px;
+    }
+    .service1{
+     text-align: center;
+    }
+    .davo{
+        width: 261px;
+    }
+    .p2{
+        width: 266px;
+    }
+    .p3{
+        width: 266px;
+    }
+    .end{
+        width: 100%;
+       background-color: #67C3F3 ;
+       color: white;
+    }
+   
+.p-end{
+    width: 386px;
+    color: white;
+}
+.qo{
+    color: white;
+}
